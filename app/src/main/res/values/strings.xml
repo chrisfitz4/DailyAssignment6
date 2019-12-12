@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DailyAssignment5</string>
+    <string name="currently_in_the_gym">Currently in the Gym</string>
+    <string name="available_for_purchase">Available For Purchase</string>
+    <string name="purchase_equipment">Purchase Equipment</string>
+</resources>
